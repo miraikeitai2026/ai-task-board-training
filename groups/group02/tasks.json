@@ -10,5 +10,11 @@
     "deadline": "2026-06-25",
     "status": "作業中",
     "owner": "メンバーB"
+  },
+  {
+    "title": "improvement_ideas.mdに改善案を書く",
+    "deadline": "2026-06-29",
+    "status": "作業中",
+    "owner": "メンバーC"
   }
 ]
